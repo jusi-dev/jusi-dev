@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A passionate developer who loves to use the MERN Stack</h3>
+<h3 align="center">A passionate developer who loves to use a varity of technologies</h3>
 
-- 🔭 I’m currently working on **ScaleUp**
 
-- 🌱 I’m currently learning **the MERN stack and GOLang**
-
-- 👨‍💻 All of my projects are available at [https://justin-winistoerfer.dev/](https://justin-winistoerfer.dev/)
-
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **nextjs**
 
 - 📫 How to reach me **hello@justin-winistoerfer.dev**
 
